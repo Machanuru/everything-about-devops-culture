@@ -1,0 +1,6 @@
+git init
+git commit -m "message"
+git config -- global user.name "machanuru"
+git config -- globa user.email "reddy.pursh@gmail.com"
+github passwd "Amrutha@1431"
+
