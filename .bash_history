@@ -104,3 +104,104 @@ vi f1
 tree f1
 ls
 tree f11
+yum insatll git
+yum install git
+ls
+pwd
+cat f1
+mkdir dev
+ls
+cp f11/ dev/
+ls
+csd dev/
+ls
+cd dev/
+ls
+cd
+ls
+pwd
+vi devops
+ls
+rm f11/
+rmdir dev/
+ls
+cat devops 
+rm f11/
+rmdir f11/
+rmdir -f  f11/
+rmdir -f f11/
+rmdir -rf f11/
+rm -rf f11
+ls
+git add
+ls
+pwd
+git cone
+git push
+git push origin master
+git clone https://github.com/Machanuru/IBM-T-mobile.git
+git push origin master
+git init
+ls
+git add
+git add .
+git config --global user.name "machanuru"
+git config --global user.email "reddy.pursh@gmail.com
+git config --global user.email "reddy.pursh@gmail.com"
+git status
+git add .
+git commit -m "added changes"
+git status
+ls
+cd IBM-T-mobile/
+ls
+cat Devops 
+ls -la
+cd
+ls
+rm -rf f2/
+
+rm -rf f1 
+ls
+cat devops 
+rm -rf devops 
+ls
+cd IBM-T-mobile/
+ls
+cat Devops 
+vi Devops 
+ls.
+ls
+rm README.md 
+LS
+las
+ls
+cat Devops 
+git status
+git init
+git status
+git add Devops 
+git status
+git add .
+ls
+git status
+git commit -m "added/deleted files"
+ls
+git status
+git ogs
+git logs
+git log
+ls
+git log
+ls
+cat Devops 
+git push origin master
+git push
+git push origin master
+reddy.pursh@gmail.com
+git push
+git push origin master
+git global tools
+git push origin master
+git push
+exit
